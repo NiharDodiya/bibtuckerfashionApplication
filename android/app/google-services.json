@@ -1,0 +1,243 @@
+{
+  "project_info": {
+    "project_number": "986501350978",
+    "firebase_url": "https://bibandtucker-9c147-default-rtdb.firebaseio.com",
+    "project_id": "bibandtucker-9c147",
+    "storage_bucket": "bibandtucker-9c147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986501350978:android:f012b8b638c7880a210fdb",
+        "android_client_info": {
+          "package_name": "btcash.bibandtucker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986501350978-oc1rucui4hrn1msa12k3d9nqc2suuann.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVUwXPFjgqtsBievxNIC6KCBARG4eVabg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986501350978-oc1rucui4hrn1msa12k3d9nqc2suuann.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986501350978-n26s35tarm6b7mlp6oldiknlviqq9msp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bibandtucker.fashion"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986501350978:android:889270470da8d7ba210fdb",
+        "android_client_info": {
+          "package_name": "com.bib.tucker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986501350978-oc1rucui4hrn1msa12k3d9nqc2suuann.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVUwXPFjgqtsBievxNIC6KCBARG4eVabg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986501350978-oc1rucui4hrn1msa12k3d9nqc2suuann.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986501350978-n26s35tarm6b7mlp6oldiknlviqq9msp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bibandtucker.fashion"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986501350978:android:937c63325f2744b5210fdb",
+        "android_client_info": {
+          "package_name": "com.bib.tuckerdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986501350978-oc1rucui4hrn1msa12k3d9nqc2suuann.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVUwXPFjgqtsBievxNIC6KCBARG4eVabg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986501350978-oc1rucui4hrn1msa12k3d9nqc2suuann.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986501350978-n26s35tarm6b7mlp6oldiknlviqq9msp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bibandtucker.fashion"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986501350978:android:cd1b7d96eccb2d1a210fdb",
+        "android_client_info": {
+          "package_name": "com.bibandtucker.fashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986501350978-oc1rucui4hrn1msa12k3d9nqc2suuann.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVUwXPFjgqtsBievxNIC6KCBARG4eVabg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986501350978-oc1rucui4hrn1msa12k3d9nqc2suuann.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986501350978-n26s35tarm6b7mlp6oldiknlviqq9msp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bibandtucker.fashion"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986501350978:android:90e41e235173b7df210fdb",
+        "android_client_info": {
+          "package_name": "com.bibandtucker.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986501350978-59n8t869n9dhbnevnh7lp7kudgiuena2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bibandtucker.in",
+            "certificate_hash": "d40342211c555c77590ba80fe7049a87200a97c6"
+          }
+        },
+        {
+          "client_id": "986501350978-7ebkts8ssagtqp9d61bo8g49194udmeq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bibandtucker.in",
+            "certificate_hash": "bb0e782366f95413ac830806525519323ef18dff"
+          }
+        },
+        {
+          "client_id": "986501350978-oc1rucui4hrn1msa12k3d9nqc2suuann.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVUwXPFjgqtsBievxNIC6KCBARG4eVabg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986501350978-oc1rucui4hrn1msa12k3d9nqc2suuann.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986501350978-n26s35tarm6b7mlp6oldiknlviqq9msp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bibandtucker.fashion"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986501350978:android:2c54c8b39a317800210fdb",
+        "android_client_info": {
+          "package_name": "com.bibandtucker.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986501350978-oc1rucui4hrn1msa12k3d9nqc2suuann.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVUwXPFjgqtsBievxNIC6KCBARG4eVabg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986501350978-oc1rucui4hrn1msa12k3d9nqc2suuann.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986501350978-n26s35tarm6b7mlp6oldiknlviqq9msp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bibandtucker.fashion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

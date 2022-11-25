@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>986501350978-n26s35tarm6b7mlp6oldiknlviqq9msp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.986501350978-n26s35tarm6b7mlp6oldiknlviqq9msp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>986501350978-59n8t869n9dhbnevnh7lp7kudgiuena2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHl2YM2FNe3tWpanPuGdNYqLpT9RSYfK0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>986501350978</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bibandtucker.fashion</string>
+	<key>PROJECT_ID</key>
+	<string>bibandtucker-9c147</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bibandtucker-9c147.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:986501350978:ios:622a13c408ba124d210fdb</string>
+	<key>DATABASE_URL</key>
+	<string>https://bibandtucker-9c147-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
