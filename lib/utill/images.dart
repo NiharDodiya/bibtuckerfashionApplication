@@ -65,4 +65,5 @@ class Images {
   static const String loyalty_point  = 'assets/images/trophy.png';
   static const String loyalty_trophy  = 'assets/images/loyalty.png';
   static const String file_download  = 'assets/images/cloud-download.png';
+  static const String splash_bg = 'assets/images/splash_bg.jpeg';
 }

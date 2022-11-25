@@ -95,10 +95,17 @@ class _SplashScreenState extends State<SplashScreen> {
           Container(
             width: MediaQuery.of(context).size.width,
             height: MediaQuery.of(context).size.height,
-            color: Provider.of<ThemeProvider>(context).darkTheme ? Colors.black : ColorResources.getPrimary(context),
+            decoration: BoxDecoration(
+              //color: Colors.black,
+                image: DecorationImage(
+                    image: AssetImage(Images.splash_bg),
+                    fit: BoxFit.fill
+                )
+            ),
+            /*color: Provider.of<ThemeProvider>(context).darkTheme ? Colors.black : ColorResources.getPrimary(context),
             child: CustomPaint(
               painter: SplashPainter(),
-            ),
+            ),*/
           ),
           Center(
             child: Column(
